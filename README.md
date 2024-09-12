@@ -26,7 +26,7 @@ The dataset was sourced from **Kaggle** and contains MRI images with bounding bo
 
 - **Roboflow** was used for:
   - Splitting the data into training, validation, and test sets.
-  - Resizing images to **242x242** for model input compatibility.
+  - Resizing images to **224x224** for model input compatibility.
 
 The dataset was structured as follows after processing with Roboflow:
 
